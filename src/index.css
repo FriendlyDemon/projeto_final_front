@@ -1,0 +1,25 @@
+:root {
+  --background-color: #f4f4f4;
+  --font-family: "Manrope", sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Manrope", sans-serif;
+}
+body {
+  width: 100%;
+  background-color: #f4f4f4;
+}
+a {
+  color: black;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: #ff7526;
+}
+h2 {
+  font-size: 56px;
+}
